@@ -1,0 +1,25 @@
+Added Component: Designator=TP1(Testpoint1)
+Added Component: Designator=TP2(Testpoint1)
+Added Component: Designator=TP3(Testpoint1)
+Added Component: Designator=TP4(Testpoint1)
+Added Component: Designator=TP5(Testpoint1)
+Added Component: Designator=TP6(Testpoint1)
+Added Component: Designator=TP7(Testpoint1)
+Added Component: Designator=TP8(Testpoint1)
+Added Component: Designator=TP9(Testpoint1)
+Added Component: Designator=TP10(Testpoint1)
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Added Pin To Net: NetName=NetTP4_1 Pin=U1-6
+Added Net: Name=NetTP4_1
+Added Pin To Net: NetName=NetTP5_1 Pin=U1-18
+Added Net: Name=NetTP5_1
+Added Pin To Net: NetName=NetTP6_1 Pin=U1-17
+Added Net: Name=NetTP6_1
+Added Pin To Net: NetName=NetTP8_1 Pin=U1-11
+Added Net: Name=NetTP8_1
+Added Pin To Net: NetName=NetTP10_1 Pin=U1-12
+Added Net: Name=NetTP10_1

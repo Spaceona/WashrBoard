@@ -1,0 +1,25 @@
+Change Component Comment : Designator=TP1 Old Comment=TP_1 New Comment=Testpoint1
+Change Component Comment : Designator=TP2 Old Comment=TP_1 New Comment=Testpoint1
+Change Component Comment : Designator=TP3 Old Comment=TP_1 New Comment=Testpoint1
+Change Component Comment : Designator=TP4 Old Comment=TP_1 New Comment=Testpoint1
+Change Component Comment : Designator=TP5 Old Comment=TP_1 New Comment=Testpoint1
+Change Component Comment : Designator=TP6 Old Comment=TP_1 New Comment=Testpoint1
+Change Component Comment : Designator=TP7 Old Comment=TP_1 New Comment=Testpoint1
+Change Component Comment : Designator=TP8 Old Comment=TP_1 New Comment=Testpoint1
+Change Component Comment : Designator=TP9 Old Comment=TP_1 New Comment=Testpoint1
+Change Component Comment : Designator=TP10 Old Comment=TP_1 New Comment=Testpoint1
+Add Pin To Net: Unknown Pin: Pin TP1-TP?
+Add Pin To Net: Unknown Pin: Pin TP2-TP?
+Add Pin To Net: Unknown Pin: Pin TP3-TP?
+Add Pin To Net: Unknown Pin: Pin TP7-TP?
+Add Pin To Net: Unknown Pin: Pin TP9-TP?
+Added Pin To Net: NetName=NetTP4_TP? Pin=U1-6
+Added Net: Name=NetTP4_TP?
+Added Pin To Net: NetName=NetTP5_TP? Pin=U1-18
+Added Net: Name=NetTP5_TP?
+Added Pin To Net: NetName=NetTP6_TP? Pin=U1-17
+Added Net: Name=NetTP6_TP?
+Added Pin To Net: NetName=NetTP8_TP? Pin=U1-11
+Added Net: Name=NetTP8_TP?
+Added Pin To Net: NetName=NetTP10_TP? Pin=U1-12
+Added Net: Name=NetTP10_TP?
