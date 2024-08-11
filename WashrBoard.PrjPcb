@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WHVQJHBS
 
 [Document3]
-DocumentPath=WashrBoard.BomDoc
+DocumentPath=WashrBoardBOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
