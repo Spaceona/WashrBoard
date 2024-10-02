@@ -1,0 +1,7 @@
+Add Component: Footprint Not Found PCBComponent_1
+Add Pin To Net: Unknown Pin: Pin TP12-1
+Change Net Name : Old Net Name=AP_SDO New Net Name=GND
+Added Member To Class: ClassName=SchematicV3 Member=Component D1 HSMG-C150
+Added Member To Class: ClassName=SchematicV3 Member=Component R7 CRCW120682R0FKEA
+Add Class Member: Failed to add class member : Component TP12 Testpin
+Added Rule: Name=Schematic Supply Nets
