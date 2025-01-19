@@ -4265,6 +4265,7 @@
 	)
 	(label "SDA"
 		(at 54.61 92.71 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4275,6 +4276,7 @@
 	)
 	(label "D_P"
 		(at 223.52 147.32 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4285,6 +4287,7 @@
 	)
 	(label "D_P"
 		(at 63.5 151.13 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4295,6 +4298,7 @@
 	)
 	(label "ProgGND"
 		(at 207.01 109.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4305,6 +4309,7 @@
 	)
 	(label "D_P"
 		(at 92.71 34.29 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4315,6 +4320,7 @@
 	)
 	(label "D_N"
 		(at 63.5 146.05 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4325,6 +4331,7 @@
 	)
 	(label "ProgGND"
 		(at 223.52 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4335,6 +4342,7 @@
 	)
 	(label "D-"
 		(at 213.36 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4345,6 +4353,7 @@
 	)
 	(label "D+"
 		(at 213.36 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4355,6 +4364,7 @@
 	)
 	(label "D_N"
 		(at 223.52 157.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4365,6 +4375,7 @@
 	)
 	(label "D-"
 		(at 110.49 31.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4375,6 +4386,7 @@
 	)
 	(label "SCL"
 		(at 54.61 90.17 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4385,6 +4397,7 @@
 	)
 	(label "D_N"
 		(at 92.71 31.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4395,6 +4408,7 @@
 	)
 	(label "SCL"
 		(at 177.8 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4405,6 +4419,7 @@
 	)
 	(label "D+"
 		(at 110.49 34.29 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4415,6 +4430,7 @@
 	)
 	(label "SDA"
 		(at 177.8 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9685,7 +9701,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "JST GH"
+		(property "Value" "JST XH"
 			(at 125.73 118.1099 0)
 			(effects
 				(font
