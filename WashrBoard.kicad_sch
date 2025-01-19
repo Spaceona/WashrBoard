@@ -3645,7 +3645,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 31.75) (xy 96.52 31.75)
+			(xy 96.52 36.83) (xy 100.33 36.83)
 		)
 		(stroke
 			(width 0)
@@ -3855,7 +3855,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 34.29) (xy 96.52 34.29)
+			(xy 96.52 39.37) (xy 100.33 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4145,7 +4145,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 31.75) (xy 110.49 31.75)
+			(xy 110.49 36.83) (xy 114.3 36.83)
 		)
 		(stroke
 			(width 0)
@@ -4185,13 +4185,43 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 34.29) (xy 110.49 34.29)
+			(xy 110.49 39.37) (xy 114.3 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "feacffea-743a-47c4-b20f-0920c4ae5c50")
+	)
+	(text "IMU"
+		(exclude_from_sim no)
+		(at 77.47 69.088 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "028a5f0b-d113-48ea-be11-39afc12602c7")
+	)
+	(text "5V to 3.3V Regulator"
+		(exclude_from_sim no)
+		(at 46.482 18.542 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "034ef3f3-e6bf-4a48-a859-672c2af1f1ad")
+	)
+	(text "Test Points"
+		(exclude_from_sim no)
+		(at 125.222 152.654 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+		)
+		(uuid "087c04b1-716c-4c66-bfc1-2652440ceb19")
 	)
 	(text "Washr Board"
 		(exclude_from_sim no)
@@ -4202,6 +4232,26 @@
 			)
 		)
 		(uuid "0dc12e64-1842-4994-9e35-eaf363b57718")
+	)
+	(text "Programming Points"
+		(exclude_from_sim no)
+		(at 191.516 149.606 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "0e3fe949-e3d5-4e5a-bb32-42587926b89d")
+	)
+	(text "JST Power Connector"
+		(exclude_from_sim no)
+		(at 122.936 111.252 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+		)
+		(uuid "0f4c4000-8b5d-4bee-8a5b-bf6388fb0697")
 	)
 	(text "1/19/25"
 		(exclude_from_sim no)
@@ -4215,7 +4265,7 @@
 	)
 	(text "JST Connector can be used as a locking alternantive to USB-C to provide power. Does not provide data."
 		(exclude_from_sim no)
-		(at 143.51 123.19 0)
+		(at 131.318 122.428 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4223,15 +4273,45 @@
 		)
 		(uuid "31670a81-4b64-41d2-af56-c8fba6d3b3d3")
 	)
-	(text "By Robbie Leslie"
+	(text "ESP32 C3"
 		(exclude_from_sim no)
-		(at 272.288 184.658 0)
+		(at 236.474 23.114 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "429f7c49-956c-4720-bf67-3686a0f6e23f")
+	)
+	(text "USB Port"
+		(exclude_from_sim no)
+		(at 40.132 119.888 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "4755d80a-c9da-4bcc-b74a-66a8565e3a0d")
+	)
+	(text "By Robbie Leslie"
+		(exclude_from_sim no)
+		(at 272.034 189.738 0)
+		(effects
+			(font
+				(size 1.905 1.905)
 			)
 		)
 		(uuid "6d12b203-3bb6-4d55-ad0e-16710236a97c")
+	)
+	(text "USB Protection"
+		(exclude_from_sim no)
+		(at 106.68 21.082 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "733f3d25-9883-403b-8e5a-e6afc7c0dbd6")
 	)
 	(text "The programming jig will connect the two \nground points, but I wanted to make sure \nthat I didn't permanently bridge P9"
 		(exclude_from_sim no)
@@ -4253,6 +4333,16 @@
 		)
 		(uuid "8de8f247-a729-44c1-9110-b3d9a985b5e3")
 	)
+	(text "P9 Button"
+		(exclude_from_sim no)
+		(at 234.442 116.586 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ade8a540-c973-41bc-8daa-83616765819e")
+	)
 	(text "5.0"
 		(exclude_from_sim no)
 		(at 270.256 193.548 0)
@@ -4262,6 +4352,16 @@
 			)
 		)
 		(uuid "cc291045-644c-41c4-b9b8-ed430ba95036")
+	)
+	(text "Mounting Holes"
+		(exclude_from_sim no)
+		(at 63.246 186.944 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+		)
+		(uuid "d1afe329-782c-44f6-acc5-ff545b98562e")
 	)
 	(label "SDA"
 		(at 54.61 92.71 0)
@@ -4304,7 +4404,7 @@
 		(uuid "61a47ee8-c9aa-4af6-86da-c67f387047fb")
 	)
 	(label "D_P"
-		(at 92.71 34.29 0)
+		(at 96.52 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4364,7 +4464,7 @@
 		(uuid "af6d2c77-d9af-4fc2-b1aa-72eb38bdea06")
 	)
 	(label "D-"
-		(at 110.49 31.75 0)
+		(at 114.3 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4384,7 +4484,7 @@
 		(uuid "c0ee1790-255d-4d3e-ab2f-569eed4021b3")
 	)
 	(label "D_N"
-		(at 92.71 31.75 0)
+		(at 96.52 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4404,7 +4504,7 @@
 		(uuid "d0bf7299-9af0-4f4d-9c5c-211a6294c786")
 	)
 	(label "D+"
-		(at 110.49 34.29 0)
+		(at 114.3 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5074,7 +5174,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 101.6 26.67 0)
+		(at 105.41 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5083,7 +5183,7 @@
 		(fields_autoplaced yes)
 		(uuid "2e3f1cc9-9d53-4acf-92b8-c429d0eef4fe")
 		(property "Reference" "#PWR016"
-			(at 101.6 30.48 0)
+			(at 105.41 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5092,7 +5192,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 101.6 21.59 0)
+			(at 105.41 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5100,7 +5200,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 26.67 0)
+			(at 105.41 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5109,7 +5209,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 26.67 0)
+			(at 105.41 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5118,7 +5218,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 101.6 26.67 0)
+			(at 105.41 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5372,7 +5472,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2SC6")
-		(at 101.6 31.75 0)
+		(at 105.41 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5381,7 +5481,7 @@
 		(fields_autoplaced yes)
 		(uuid "3130cfb3-c06b-41c7-a096-3531f5443a9a")
 		(property "Reference" "U2"
-			(at 103.2511 24.13 0)
+			(at 107.0611 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5390,7 +5490,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 103.2511 26.67 0)
+			(at 107.0611 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5399,7 +5499,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 102.87 38.1 0)
+			(at 106.68 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5410,7 +5510,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 102.87 40.005 0)
+			(at 106.68 45.085 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5420,7 +5520,7 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
-			(at 101.6 31.75 0)
+			(at 105.41 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5429,7 +5529,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "USBLC6-2SC6"
-			(at 101.6 31.75 0)
+			(at 105.41 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7498,7 +7598,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 101.6 39.37 0)
+		(at 105.41 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7507,7 +7607,7 @@
 		(fields_autoplaced yes)
 		(uuid "7e693b51-bf16-43cf-80c8-436cabb1aa12")
 		(property "Reference" "#PWR017"
-			(at 101.6 45.72 0)
+			(at 105.41 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7516,7 +7616,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 101.6 44.45 0)
+			(at 105.41 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7524,7 +7624,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 39.37 0)
+			(at 105.41 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7533,7 +7633,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 39.37 0)
+			(at 105.41 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7542,7 +7642,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 39.37 0)
+			(at 105.41 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
