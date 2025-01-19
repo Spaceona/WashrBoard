@@ -4425,7 +4425,8 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 26.67 60.96 90)
+		(at 129.54 157.48 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4434,7 +4435,7 @@
 		(fields_autoplaced yes)
 		(uuid "07bc2970-b113-4fc6-a9c9-681cf5ae8d3e")
 		(property "Reference" "#PWR01"
-			(at 30.48 60.96 0)
+			(at 125.73 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4443,7 +4444,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 22.86 60.9599 90)
+			(at 133.35 157.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4452,7 +4453,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 60.96 0)
+			(at 129.54 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4461,7 +4462,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 60.96 0)
+			(at 129.54 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4470,7 +4471,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 26.67 60.96 0)
+			(at 129.54 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5265,6 +5266,15 @@
 				(hide yes)
 			)
 		)
+		(property "ProgPoint" "PGND"
+			(at 238.76 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5711aa9e-8649-45e4-86d9-e155edba99e7")
 		)
@@ -5331,6 +5341,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 218.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ProgPoint" "5V"
 			(at 218.44 125.73 0)
 			(effects
 				(font
@@ -6442,6 +6461,15 @@
 				(hide yes)
 			)
 		)
+		(property "ProgPoint" "D_P"
+			(at 218.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "259b7fb4-66be-4b7a-a756-efe143b0e2e2")
 		)
@@ -6653,6 +6681,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 218.44 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ProgPoint" "D_N"
 			(at 218.44 157.48 0)
 			(effects
 				(font
@@ -7232,7 +7269,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 48.26 71.12 180)
+		(at 124.46 168.91 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -7241,7 +7278,7 @@
 		(fields_autoplaced yes)
 		(uuid "747216bc-61ee-4ee1-9f31-e54a5fa5a569")
 		(property "Reference" "J3"
-			(at 48.26 64.77 0)
+			(at 124.46 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7249,7 +7286,7 @@
 			)
 		)
 		(property "Value" "TestPoint GND"
-			(at 48.26 67.31 0)
+			(at 124.46 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7257,7 +7294,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 48.26 71.12 0)
+			(at 124.46 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7266,7 +7303,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 48.26 71.12 0)
+			(at 124.46 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7275,7 +7312,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 48.26 71.12 0)
+			(at 124.46 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7284,7 +7321,16 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
-			(at 48.26 71.12 0)
+			(at 124.46 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TestValue" "GND"
+			(at 124.46 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7306,7 +7352,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 53.34 71.12 90)
+		(at 129.54 168.91 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7315,7 +7361,7 @@
 		(fields_autoplaced yes)
 		(uuid "777345a6-1e9d-40cb-8579-42cf198f225f")
 		(property "Reference" "#PWR07"
-			(at 59.69 71.12 0)
+			(at 135.89 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7324,7 +7370,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 57.15 71.1199 90)
+			(at 133.35 168.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7333,7 +7379,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 71.12 0)
+			(at 129.54 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7342,7 +7388,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 71.12 0)
+			(at 129.54 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7351,7 +7397,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 53.34 71.12 0)
+			(at 129.54 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7834,7 +7880,8 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 31.75 60.96 0)
+		(at 124.46 157.48 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -7843,7 +7890,7 @@
 		(fields_autoplaced yes)
 		(uuid "90b33ce8-4d09-49d7-8d47-97a67230eb72")
 		(property "Reference" "J1"
-			(at 34.29 59.6899 0)
+			(at 121.92 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7852,7 +7899,7 @@
 			)
 		)
 		(property "Value" "TestPoint 5V"
-			(at 34.29 62.2299 0)
+			(at 121.92 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7861,7 +7908,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 31.75 60.96 0)
+			(at 124.46 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7870,7 +7917,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 31.75 60.96 0)
+			(at 124.46 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7879,7 +7926,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 31.75 60.96 0)
+			(at 124.46 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7888,7 +7935,16 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
-			(at 31.75 60.96 0)
+			(at 124.46 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TestValue" "5V"
+			(at 124.46 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7962,6 +8018,15 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
+			(at 218.44 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ProgPoint" "GND"
 			(at 218.44 135.89 0)
 			(effects
 				(font
@@ -8348,7 +8413,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 59.69 60.96 180)
+		(at 124.46 180.34 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -8357,7 +8422,7 @@
 		(fields_autoplaced yes)
 		(uuid "b28de4e1-c444-44fe-a638-e37ac7922f24")
 		(property "Reference" "J4"
-			(at 59.69 54.61 0)
+			(at 124.46 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8365,7 +8430,7 @@
 			)
 		)
 		(property "Value" "TestPoint 3.3V"
-			(at 59.69 57.15 0)
+			(at 124.46 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8373,7 +8438,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 59.69 60.96 0)
+			(at 124.46 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8382,7 +8447,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 59.69 60.96 0)
+			(at 124.46 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8391,7 +8456,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 59.69 60.96 0)
+			(at 124.46 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8400,7 +8465,16 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
-			(at 59.69 60.96 0)
+			(at 124.46 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TestValue" "3.3V"
+			(at 124.46 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9601,7 +9675,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 64.77 60.96 270)
+		(at 129.54 180.34 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9610,7 +9684,7 @@
 		(fields_autoplaced yes)
 		(uuid "f85eef89-b80e-4380-9d88-a0e7005a91cb")
 		(property "Reference" "#PWR010"
-			(at 60.96 60.96 0)
+			(at 125.73 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9619,7 +9693,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 68.58 60.9599 90)
+			(at 133.35 180.3399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9628,7 +9702,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 60.96 0)
+			(at 129.54 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9637,7 +9711,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 60.96 0)
+			(at 129.54 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9646,7 +9720,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 64.77 60.96 0)
+			(at 129.54 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)

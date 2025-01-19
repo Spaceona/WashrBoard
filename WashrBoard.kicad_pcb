@@ -181,10 +181,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85e46d6d-cb4b-427f-af5d-27f6b4076b01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/c4a23dcc-9df3-4c44-b37f-a1818d1a16a2")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -308,11 +321,24 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a66aadb7-7082-4fb3-b065-ebe27f50d227")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/747216bc-61ee-4ee1-9f31-e54a5fa5a569")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
-		(attr exclude_from_pos_files)
+		(sheetfile "WashrBoard.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -421,10 +447,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "PTS526SK15SMTR2 LFS"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "877b95e7-0106-4735-99e5-79f282fe235f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SMT_FS")
 		(path "/42b3e2a7-5f68-41ff-8861-f651cb0f3147")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.8321 -2.8321)
@@ -987,10 +1026,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "CC1206KRX7R9BB103"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33d7ff50-1c9e-4d43-b6ae-a37a423cfb64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4d4499b3-39fd-4557-a170-1b6395799354")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -1200,10 +1252,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "RR1220P-103-D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd56eda2-6a80-4717-9c49-81bbd20c7d15")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ebbb440f-6c4c-43fc-ae2b-b8dc5840cce0")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -1415,10 +1480,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b65935b9-adce-4307-af9c-28cf07a2b477")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/3ee07760-d0ce-467b-bb97-1ea5328a6b75")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -1529,10 +1607,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "ESP32-C3-WROOM-02U-N4"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5ee1238-9674-4cb1-ae81-c55ba0db4c7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "ESP32?C3*WROOM?02U*")
 		(path "/2964f39e-9b38-4b2a-ac60-167245199432")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 9.11 6.71)
@@ -2189,10 +2280,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "RR1220P-103-D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb2b1219-5b57-4bcf-aa9c-923187852be3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2729a229-6a40-40be-8494-e385d696a5b6")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -2402,10 +2506,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "SML-D12U1WT86"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59f2cd4f-7b60-4e7d-81c0-7b12ca364eb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8089263f-4328-42c9-b15c-30c599f04fd9")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 -0.735)
@@ -2637,10 +2754,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "CRCW120675R0FKEA"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2452f7e7-20d7-407c-8e1f-5fe4c35e30d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/5f5b954f-1760-4b91-975b-f4ddfc0ebf74")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -2798,7 +2928,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "IMU"
 			(at 4.6524 2.0064 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2846,9 +2976,22 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "ICM-42670-P"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43179477-6ad5-4763-b746-d3b72ba7e13e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/48404649-ded4-4400-aee9-ee8a8227b695")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -3567,7 +3710,7 @@
 				)
 			)
 		)
-		(property "Value" "JST GH"
+		(property "Value" "JST XH"
 			(at 1.25 8.8 -90)
 			(layer "F.Fab")
 			(uuid "8a6165d8-ad57-41a6-8ded-7f42879e63d3")
@@ -3617,10 +3760,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "S2B-XH-A-1"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1778acf9-7e6e-44f9-8472-b1db774e3047")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fe7360d2-d1b6-40d0-8ad2-b5e188ffd8cb")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.56 7.71)
@@ -4085,10 +4241,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "UMK316BJ225KD-T"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e334f3df-b481-4de9-8668-c0fddb790f96")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8de5ff4e-0221-4acc-94ab-f37e6bb95190")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -4298,10 +4467,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "CL31B105KCHNNNE"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "acbd0a22-2049-4c4d-bc7d-81c7a632814c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/634ba2b4-2ab1-4768-b96b-32798ccf76c2")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -4511,10 +4693,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "RT1206FRE074K7L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1ab2b80-d56b-4957-8d8b-d30ffb875c07")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/95230afe-f5d4-4627-8e2c-45d138a4bbf3")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -4926,10 +5121,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60fd598a-a0a0-40b0-80c7-b48bca752f91")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/bbaff9d5-93e5-4356-9840-3136b6b72aac")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5040,10 +5248,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "CL31B105KCHNNNE"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b54c4da0-7390-4ee6-a81c-b10c785a0053")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/da0401a8-de92-4e68-acca-cd72dcbf5ac0")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -5253,10 +5474,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "CRCW12065K10FKEA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e05710ac-6a01-41c7-a52b-6835f1c8f082")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/19e5cd0c-e4a6-402d-a0ac-40912c6d28f3")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -5479,11 +5713,24 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b9f1c83-bf13-454d-9f6e-bbdf15226c18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b28de4e1-c444-44fe-a638-e37ac7922f24")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
-		(attr exclude_from_pos_files)
+		(sheetfile "WashrBoard.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -5596,10 +5843,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "USB4105-GF-A"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ad1d915-013e-4c0d-baeb-64a0616601ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/37098636-4cdd-490f-a094-b494beea25b4")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -4.67 -0.1)
@@ -5978,10 +6238,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "1206B104K500CT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba5bf130-700b-415f-8708-3faddba8da05")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0c0f5fb2-8232-4f45-a813-39e149519aef")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -6188,10 +6461,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "USBLC6-2SC6"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94471d38-86a9-4fae-87cd-33d07e61b651")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/3130cfb3-c06b-41c7-a096-3531f5443a9a")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -6485,10 +6771,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "CL31B105KCHNNNE"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "46b594a8-7423-48ab-992d-6ec9ab7b4c71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8c523b30-55e0-4180-b744-52bd2863460f")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -6698,10 +6997,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "HSMG-C150"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc1b2b9c-338b-43f8-9201-958175c0e964")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b8282cc3-837e-470c-b5bc-53cd461577d6")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.285 -1.135)
@@ -6933,10 +7245,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "RT1206FRE074K7L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1deaf6e8-e124-4be9-9254-ec7ff1ef9ed9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1491ea1b-c03c-47b2-b045-4b264da930d5")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -7159,11 +7484,24 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "961cccd6-036b-4422-b83b-5e65a26313f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/90b33ce8-4d09-49d7-8d47-97a67230eb72")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
-		(attr exclude_from_pos_files)
+		(sheetfile "WashrBoard.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -7274,10 +7612,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "RR1220P-103-D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d58fa202-56a2-43a9-ac85-f4cf6f427745")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8d4ed78d-ebb1-4d9e-b771-ebe9ee14fdf3")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -7487,10 +7838,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "CRCW12065K10FKEA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "406fd56c-28f3-45a3-af2b-d7be0162b179")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/41985723-10df-4681-96be-725b5a1483f0")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -7700,10 +8064,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "CRCW120675R0FKEA"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d13457e-f4fa-4af2-b418-36e3c11fb0f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7e543f84-0457-43bc-af25-549bc62587cb")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -7863,7 +8240,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Regulator"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "69eecb31-24cb-4673-8f84-36b92053f2bd")
@@ -7913,9 +8290,22 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "TLV1117LV33DCYR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "560dff6b-eac9-484c-9d59-e6620097dab9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a125ced0-061a-48b6-bd00-d80b0d7ab0f6")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.85 -3.41)
@@ -8191,10 +8581,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "649e328a-3cef-46ff-89bd-5cf47bf12a60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/2542f3ab-da12-4203-a596-ae58e4c51704")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -8305,10 +8708,23 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "RR1220P-103-D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aaedefc6-c977-4699-9935-1cf7c085d537")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4616454f-1afa-44db-81c0-d9570cdafed2")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
+		(sheetfile "WashrBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -8525,15 +8941,30 @@
 				(justify mirror)
 			)
 		)
-		(property "Testpoint" "VBUS"
-			(at -0.34 -1.5 90)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 -90)
 			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "e4e9561c-8379-4729-9de5-fbd43445e806")
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8fac949e-e39c-4a62-99fc-02d973453658")
 			(effects
 				(font
-					(size 0.8 0.7)
-					(thickness 0.125)
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "ProgPoint" "5V"
+			(at -0.34 -1.5 270)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "699d1a03-dda0-4227-b1a9-a47d2ba8fa0c")
+			(effects
+				(font
+					(size 0.8 0.6)
+					(thickness 0.1)
+					(bold yes)
 				)
 				(justify mirror)
 			)
@@ -8541,8 +8972,8 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/30eb0944-878a-40a3-b948-dd7de04d7e6d")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
-		(attr exclude_from_pos_files)
+		(sheetfile "WashrBoard.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -8661,15 +9092,29 @@
 				(justify mirror)
 			)
 		)
-		(property "Testpoint" "D_N"
-			(at 0 -1.5 90)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 -90)
 			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "332cb628-470d-4f18-9574-7c59d443960b")
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "09419908-cab4-4dc2-9633-a4af08d794f2")
 			(effects
 				(font
-					(size 0.8 0.8)
-					(thickness 0.125)
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "ProgPoint" "D_N"
+			(at 0 -1.5 270)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "0cce3496-4bd3-4802-b2d2-937d915a420b")
+			(effects
+				(font
+					(size 0.8 0.6)
+					(thickness 0.1)
 					(bold yes)
 				)
 				(justify mirror)
@@ -8678,8 +9123,8 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/4dcbca77-01cb-455c-81e1-bae3dc177473")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
-		(attr exclude_from_pos_files)
+		(sheetfile "WashrBoard.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -8798,15 +9243,29 @@
 				(justify mirror)
 			)
 		)
-		(property "TestPoint" "GND"
-			(at 0 -1.5 90)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 -90)
 			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "cbf7ba0e-83fb-43e3-896d-6b4f8d46a1cf")
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5014394c-9c94-4279-9917-83aa63fc9347")
 			(effects
 				(font
-					(size 0.8 0.7)
-					(thickness 0.125)
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "ProgPoint" "PGND"
+			(at 0 -1.5 270)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "1e7d2b1d-0b8f-4b4d-9460-7bb4774a40a1")
+			(effects
+				(font
+					(size 0.8 0.6)
+					(thickness 0.1)
 					(bold yes)
 				)
 				(justify mirror)
@@ -8815,8 +9274,8 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/304556e7-221b-4343-9612-7164dc0061be")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
-		(attr exclude_from_pos_files)
+		(sheetfile "WashrBoard.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -8935,15 +9394,29 @@
 				(justify mirror)
 			)
 		)
-		(property "Testpoint" "PGND"
-			(at 0 -1.5 90)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "64ddb4ee-c3b0-4b7b-8644-02ca6db16a82")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "ProgPoint" "GND"
+			(at 0 -1.5 270)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "07221ccd-38a5-4f5f-a850-342422a8d0b2")
+			(uuid "4e9f9613-34f5-46b0-8334-9f14557a141b")
 			(effects
 				(font
 					(size 0.8 0.6)
-					(thickness 0.125)
+					(thickness 0.1)
 					(bold yes)
 				)
 				(justify mirror)
@@ -8952,8 +9425,8 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/925b08a7-c85b-403d-ad42-e54a1e014a5b")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
-		(attr exclude_from_pos_files)
+		(sheetfile "WashrBoard.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -9072,15 +9545,29 @@
 				(justify mirror)
 			)
 		)
-		(property "Testpoint" "D_P"
-			(at 0 -1.5 90)
+		(property "Manufacturer Part Number" ""
+			(at 0 0 -90)
 			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "fddfcdd7-9842-4032-9794-dac1dd9c1480")
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1c654042-edff-4a29-87ac-e3cce7fed0f8")
 			(effects
 				(font
-					(size 0.8 0.8)
-					(thickness 0.125)
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "ProgPoint" "D_P"
+			(at -0.38 -1.5 270)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "0fde916e-fbff-4262-b616-ab802842a7c1")
+			(effects
+				(font
+					(size 0.8 0.6)
+					(thickness 0.1)
 					(bold yes)
 				)
 				(justify mirror)
@@ -9089,8 +9576,8 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/48e2f3ac-266b-4825-8100-7ed62d762211")
 		(sheetname "Root")
-		(sheetfile "WashrBoardV4.kicad_sch")
-		(attr exclude_from_pos_files)
+		(sheetfile "WashrBoard.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -11807,12 +12294,12 @@
 		(uuid "8d3a6912-95a2-4ee1-a5a1-516bf08d88bf")
 	)
 	(segment
-		(start 172.5 78.5)
-		(end 170.5 80.5)
+		(start 170.54 80.46)
+		(end 168.5 80.46)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 14)
-		(uuid "3db75c06-ff8f-4f83-89d8-a67cf141ff2e")
+		(uuid "1b48afa6-f1ac-453f-b21b-720c34975779")
 	)
 	(segment
 		(start 174.5 78.5)
@@ -11823,22 +12310,6 @@
 		(uuid "4875e75b-cb28-4bd3-b183-83e6fa8c6a67")
 	)
 	(segment
-		(start 169.5 80.5)
-		(end 169.46 80.46)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 14)
-		(uuid "6bcf0ad3-db6f-486b-a587-8689780ee945")
-	)
-	(segment
-		(start 169.46 80.46)
-		(end 168.5 80.46)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 14)
-		(uuid "703e5481-0aa6-433b-af0f-f75c0e0e2731")
-	)
-	(segment
 		(start 175 78)
 		(end 174.5 78.5)
 		(width 0.2)
@@ -11847,12 +12318,12 @@
 		(uuid "93c87f5e-a65c-4b73-81d6-f99b5ca4e202")
 	)
 	(segment
-		(start 170.5 80.5)
-		(end 169.5 80.5)
+		(start 172.5 78.5)
+		(end 170.54 80.46)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 14)
-		(uuid "9f0e5abc-e7d8-474b-a6c3-5660465c8324")
+		(uuid "b10d6127-fc33-49c8-b20e-c444ac6fdbad")
 	)
 	(segment
 		(start 168.8 62.2)
