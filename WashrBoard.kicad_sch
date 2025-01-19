@@ -4193,7 +4193,7 @@
 		)
 		(uuid "feacffea-743a-47c4-b20f-0920c4ae5c50")
 	)
-	(text "Washr Board V4"
+	(text "Washr Board"
 		(exclude_from_sim no)
 		(at 201.93 189.992 0)
 		(effects
@@ -4203,7 +4203,7 @@
 		)
 		(uuid "0dc12e64-1842-4994-9e35-eaf363b57718")
 	)
-	(text "1/17/25"
+	(text "1/19/25"
 		(exclude_from_sim no)
 		(at 210.82 193.548 0)
 		(effects
@@ -4253,7 +4253,7 @@
 		)
 		(uuid "8de8f247-a729-44c1-9110-b3d9a985b5e3")
 	)
-	(text "1.0"
+	(text "5.0"
 		(exclude_from_sim no)
 		(at 270.256 193.548 0)
 		(effects
@@ -4265,7 +4265,6 @@
 	)
 	(label "SDA"
 		(at 54.61 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4276,7 +4275,6 @@
 	)
 	(label "D_P"
 		(at 223.52 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4287,7 +4285,6 @@
 	)
 	(label "D_P"
 		(at 63.5 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4298,7 +4295,6 @@
 	)
 	(label "ProgGND"
 		(at 207.01 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4309,7 +4305,6 @@
 	)
 	(label "D_P"
 		(at 92.71 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4320,7 +4315,6 @@
 	)
 	(label "D_N"
 		(at 63.5 146.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4331,7 +4325,6 @@
 	)
 	(label "ProgGND"
 		(at 223.52 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4342,7 +4335,6 @@
 	)
 	(label "D-"
 		(at 213.36 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4353,7 +4345,6 @@
 	)
 	(label "D+"
 		(at 213.36 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4364,7 +4355,6 @@
 	)
 	(label "D_N"
 		(at 223.52 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4375,7 +4365,6 @@
 	)
 	(label "D-"
 		(at 110.49 31.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4386,7 +4375,6 @@
 	)
 	(label "SCL"
 		(at 54.61 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4397,7 +4385,6 @@
 	)
 	(label "D_N"
 		(at 92.71 31.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4408,7 +4395,6 @@
 	)
 	(label "SCL"
 		(at 177.8 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4419,7 +4405,6 @@
 	)
 	(label "D+"
 		(at 110.49 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4430,7 +4415,6 @@
 	)
 	(label "SDA"
 		(at 177.8 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
