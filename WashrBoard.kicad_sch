@@ -4253,7 +4253,7 @@
 		)
 		(uuid "0f4c4000-8b5d-4bee-8a5b-bf6388fb0697")
 	)
-	(text "1/26/25"
+	(text "2/1/25"
 		(exclude_from_sim no)
 		(at 210.82 193.548 0)
 		(effects
@@ -4343,7 +4343,7 @@
 		)
 		(uuid "ade8a540-c973-41bc-8daa-83616765819e")
 	)
-	(text "5.1"
+	(text "5.2"
 		(exclude_from_sim no)
 		(at 270.256 193.548 0)
 		(effects
@@ -4920,7 +4920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad"
 			(at 40.64 191.77 0)
 			(effects
 				(font
@@ -5914,7 +5914,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad"
 			(at 19.05 180.34 0)
 			(effects
 				(font
@@ -8701,7 +8701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad"
 			(at 40.64 180.34 0)
 			(effects
 				(font
@@ -8841,7 +8841,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad"
 			(at 19.05 190.5 0)
 			(effects
 				(font
