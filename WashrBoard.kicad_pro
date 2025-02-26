@@ -469,7 +469,7 @@
       "plot": "Outputs/V5.2/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Outputs/WashrBoard3DModel.step",
       "svg": "",
       "vrml": ""
     },
