@@ -1,0 +1,18 @@
+Comment,Designator,Footprint,LCSC Part #,Manufacturer,MPN,JLCPCB Library,Note
+1uF 50V X7R,"C1,C2,C6",C_1206_3216Metric,C1848,Samsung,CL31B105KBHNNNE,Basic,Regulator in/out caps + EN cap
+100nF 50V X7R,C3,C_1206_3216Metric,C24497,Samsung,CL31B104KBCNNNC,Basic,IMU decoupling
+10nF 50V X7R,C4,C_1206_3216Metric,C1846,FH,1206B103K500NT,Basic,IMU decoupling
+2.2uF 50V X7R,C5,C_1206_3216Metric,C50254,Samsung,CL31B225KBHNNNE,Basic,IMU decoupling
+Green LED,D1,LED_1206_3216Metric,C188727,Broadcom,HSMG-C150,Extended,Status LED on GPIO6
+Red LED,D2,LED_0603_1608Metric,C2286,KENTO,KT-0603R,Basic,Status LED on GPIO10 (replaces out-of-stock SML-D12U1WT86)
+USB-C receptacle,J2,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,C3020560,GCT,USB4105-GF-A,Extended,5V power + USB data
+JST GH 2-pin,J5,JST_GH_SM02B-GHS-TB_1x02-1MP_P1.25mm_Horizontal,C54582897,XYECONN,XY-SM02B-GHS-TB,Extended,Locking 5V power input (drop-in clone; genuine JST C189893 had 2 in stock)
+ICM-42670-P IMU,MT1,XDCR_ICM-42670-P,C3288646,TDK InvenSense,ICM-42670-P,Extended,Accelerometer + gyroscope
+5.1k 1%,"R1,R2",R_1206_3216Metric,C26033,UNI-ROYAL,1206W4F5101T5E,Extended,USB-C CC pull-downs
+4.7k 1%,"R3,R5",R_1206_3216Metric,C17936,UNI-ROYAL,1206W4F4701T5E,Basic,I2C pull-ups (SCL/SDA)
+75R 1%,"R4,R6",R_1206_3216Metric,C17987,UNI-ROYAL,1206W4F750JT5E,Extended,LED current limit
+10k 1%,"R7,R8,R9,R10",R_0805_2012Metric,C17414,UNI-ROYAL,0805W8F1002T5E,Basic,Pull-ups on IO9 / EN / IO2 / IO8
+TLV1117LV33 3.3V LDO,U1,SOT-223,C15578,TI,TLV1117LV33DCYR,Extended,5V to 3.3V regulator
+USBLC6-2SC6,U2,SOT-23-6,C7519,ST,USBLC6-2SC6,Extended,USB data ESD protection
+Tactile switch,U3,PTS526SK15SMTR2 LFS,C2689521,C&K,PTS526SK15SMTR2LFS,Extended,BOOT button (GPIO9)
+ESP32-C3-WROOM-02U-N4,U4,ESP32-C3-WROOM-02U,C2926676,Espressif,ESP32-C3-WROOM-02U-N4,Extended,MCU + Wi-Fi/BLE (needs external U.FL antenna)
